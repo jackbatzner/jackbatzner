@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jack Batzner 👋</h1>
 
 <p align="center">
-  Senior Software Engineer at Microsoft for Startups<br/>
+  Principal Software Engineer at Microsoft<br/>
   AI Agents • Developer Tooling • Cloud Platforms • Building in Public
 </p>
 
@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I'm a Senior Software Engineer with 14+ years of experience building cloud platforms, AI-native engineering systems, and developer productivity capabilities.
+I'm a Principal Software Engineer with 14+ years of experience building cloud platforms, AI-native engineering systems, and developer productivity capabilities.
 
 Right now I'm focused on:
 - 🤖 AI agents and multi-agent systems
@@ -29,8 +29,6 @@ I tend to gravitate toward ambiguous 0→1 work: the kind where architecture, ex
 ---
 
 ## 🔭 Current Work
-
-At Microsoft for Startups, I help teams build and scale on Azure while working on secure, production-ready patterns for agentic systems.
 
 Recent focus areas:
 - maintaining and contributing to the [Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit)
